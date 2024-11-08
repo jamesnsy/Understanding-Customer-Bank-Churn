@@ -41,7 +41,19 @@ Data cleaning:
 - Change card type values to proper case
 
 Data Exploration:
-- The following fields will be 
+- Checking customer churn based on the following fields:
+  - Credit score, geography, age group, tenure, balance, NumofProducts, HasCrCard, IsActiveMember, Estmated Salary, Complain, Satisfaction Score, Card Type, Points Earned.
+
+## Data Visualisation via Tableau
+### Summary of Insights
+- Out of 10000 customers, about 20% has churned (2038).
+- Customers in the 41-60 years old category are more likely to churn than other age cateogry.
+- Although there are more customers in France than Germany, churn rate in Germany (~32%) is twice of that of France (~16%).
+
+![image](https://github.com/user-attachments/assets/b30898b0-18cb-44ca-8643-a160ce4b00fa)
+
+- 
+
 
 
 
