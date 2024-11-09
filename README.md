@@ -52,9 +52,13 @@ Data Exploration
 
 ![image](https://github.com/user-attachments/assets/b30898b0-18cb-44ca-8643-a160ce4b00fa)
 
+- Customers who has credit card tends not to churn and stays with the bank. Active customers also tends not to churn compared to inactive customers.
 - Customers who complain are most likely to churn regardless of their activity with the bank. This shows how important customer services plays a part in customer retention.
 - Customers with 2 or more products have a very high chance to churn (~83% churn rate for customers with 3 products, 100% chrun rate for customers with 4 products)
 - Churn rate remains fairly consistent ~20% for customers with credit card score > 450.
+
+![image](https://github.com/user-attachments/assets/3d754ff8-ddcb-454b-9a12-23a6e978dab3)
+
 
 
 
