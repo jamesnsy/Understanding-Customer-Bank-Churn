@@ -1,12 +1,12 @@
-# Understanding-Customer-Bank-Churn
+# Understanding Customer Bank Churn
 Interactive tableau storybaord can be found [here](https://public.tableau.com/app/profile/si.yang.neo/viz/BankCustomerChurnAnalysis_17305551284230/BankCustomerChurnStoryboard)
 Data Analysis Tools used for this project: SQL & Tableau
 
-## Background and Problem Statement:
+## Background and Problem Statement
 - Customer churn in banking industry refers to when a customer stops using a bank's services, either by closing their account or switching to another bank. Churn can be a significant concern for the bank as it is far more expensive to attract new csutomers compared to retaining the current ones. This often leads to lost revenue and can indicate dissatisfaction or unmet needs among customers.
 - ABC multinational bank is experiencing an increasing rate of customer churn and is negatively impacting its revenue. The bank manager would like to understand what went wrong and what are the important factors that are causing customers to churn.
 
-## Objectives:
+## Objectives
 - Identify what are the key trends and patterns in customer behaviour that contribute to churn.
 - Provide recommendations to retain customers based on the insights gathered from data analysis.
 
@@ -35,12 +35,12 @@ Data Analysis Tools used for this project: SQL & Tableau
 Dataset link can be found [here](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)
 
 ## Data cleaning and exploratory analysis using SQL (PostgreSQL) - SQL code are found under attachments
-Data cleaning:
+Data cleaning
 - Checking of null values
 - Convert bank balance and estimated salary column values to 2 decimal places
 - Change card type values to proper case
 
-Data Exploration:
+Data Exploration
 - Checking customer churn based on the following fields:
   - Credit score, geography, age group, tenure, balance, NumofProducts, HasCrCard, IsActiveMember, Estmated Salary, Complain, Satisfaction Score, Card Type, Points Earned.
 
@@ -52,8 +52,9 @@ Data Exploration:
 
 ![image](https://github.com/user-attachments/assets/b30898b0-18cb-44ca-8643-a160ce4b00fa)
 
-- 
-
+- Customers who complain are most likely to churn regardless of their activity with the bank. This shows how important customer services plays a part in customer retention.
+- Customers with 2 or more products have a very high chance to churn (~83% churn rate for customers with 3 products, 100% chrun rate for customers with 4 products)
+- Churn rate remains fairly consistent ~20% for customers with credit card score > 450.
 
 
 
