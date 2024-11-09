@@ -1,5 +1,5 @@
 # Understanding Customer Bank Churn
-Interactive tableau storybaord can be found [here](https://public.tableau.com/app/profile/si.yang.neo/viz/BankCustomerChurnAnalysis_17305551284230/BankCustomerChurnStoryboard)
+Interactive tableau storyboard can be found [here](https://public.tableau.com/app/profile/si.yang.neo/viz/BankCustomerChurnAnalysis_17305551284230/BankCustomerChurnStoryboard)
 Data Analysis Tools used for this project: SQL & Tableau
 
 ## Background and Problem Statement
@@ -58,6 +58,15 @@ Data Exploration
 - Churn rate remains fairly consistent ~20% for customers with credit card score > 450.
 
 ![image](https://github.com/user-attachments/assets/3d754ff8-ddcb-454b-9a12-23a6e978dab3)
+
+- Tenure does not impact churn rates as they are quite constant (~20%) across all tenures
+- Satisfaction score as well do not really impact churn rate as there is an equal chance of customer leaving the bank (~20%) no matter how good or bad the score is.
+- Churn rate remains fairly consistent among customers with > 200 points earned.
+- There are quite a handy of customers with zero bank balance that churn which suggest possibility of inactive accounts.
+
+![image](https://github.com/user-attachments/assets/10abf566-9660-41ce-85d8-c27b73b0273a)
+
+  
 
 
 
