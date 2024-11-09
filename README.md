@@ -34,7 +34,7 @@ Interactive tableau storyboard can be found [here](https://public.tableau.com/ap
 
 Dataset link can be found [here](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)
 
-## Data cleaning and exploratory analysis using SQL (PostgreSQL) - SQL code are found under attachments
+## Data cleaning and exploratory analysis using SQL (PostgreSQL) - SQL queries are found under attachments
 Data cleaning
 - Checking of null values
 - Convert bank balance and estimated salary column values to 2 decimal places
