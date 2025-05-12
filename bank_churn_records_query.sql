@@ -6,7 +6,7 @@ FROM customer_churn_records;
 SELECT COUNT(*)
 FROM customer_churn_records;
 
--- Check of null values for every columns
+-- Check of null values for every columns.
 SELECT * 
 FROM customer_churn_records
 WHERE point_earned IS NULL;
