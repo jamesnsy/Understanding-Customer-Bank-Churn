@@ -1,5 +1,4 @@
 # Understanding Customer Bank Churn
-Interactive tableau storyboard can be found [here](https://public.tableau.com/app/profile/si.yang.neo/viz/BankCustomerChurnAnalysis_17305551284230/BankCustomerChurnStoryboard?publish=yes)
 - Data Analysis Tools used for this project: SQL & Tableau
 
 ## Background and Problem Statement
